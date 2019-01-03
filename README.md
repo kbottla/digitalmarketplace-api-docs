@@ -1,4 +1,4 @@
-# Digital Marketplace API docs
+# GOV.UK Pay API docs
 
 This is a template based on https://github.com/alphagov/tech-docs-template
 for publishing the OpenAPI specification for https://github.com/alphagov/digitalmarketplace-api

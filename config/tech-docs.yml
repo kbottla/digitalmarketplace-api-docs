@@ -3,13 +3,13 @@ host: https://alphagov.github.io/digitalmarketplace-api-docs
 
 # Header-related options
 show_govuk_logo: true
-service_name: Digital Marketplace API
-service_link: https://api.digigtalmarketplace.service.gov.uk
+service_name: Pay API
+service_link: https://docs.payments.service.gov.uk
 phase: Beta
 
 # Links to show on right-hand-side of header
 header_links:
-  Status: https://api.digitalmarketplace.service.gov.uk/_status
+  Status: https://docs.payments.service.gov.uk
   Documentation: /
 
 # Tracking ID from Google Analytics (e.g. UA-XXXX-Y)
